@@ -35,7 +35,6 @@ import tensorflow as tf
 from tensorflow.keras.layers import LSTM, Flatten, Dense
 from tensorflow.keras.models import Sequential
 import tensorflow.keras.backend as K
-from sklearn.model_selection import train_test_split
 from keras.models import load_model,save_model
 
 def get_data(start_date='2014-01-01', end_date='2018-01-01'):
