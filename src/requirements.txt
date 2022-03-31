@@ -3,7 +3,6 @@ absl-py==1.0.0
 alabaster==0.7.8
 altair==4.2.0
 anyascii==0.3.0
-apturl==0.5.2
 astroid==2.3.3
 astunparse==1.6.3
 attrs==19.3.0
