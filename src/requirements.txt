@@ -2,3 +2,4 @@ streamlit==1.8.0
 keras==2.7.0
 tensorflow-cpu==2.7.0
 yfinance==0.1.70
+matplotlib==3.5.0
