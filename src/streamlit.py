@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from keras.models import load_model
 
 
-sns.set()
+
 st.title('Portfolio Optimization')
 st.subheader('US Total Stock Index (VTI)')
 st.subheader('US Aggregate Bond Index (AGG)')
