@@ -4,3 +4,4 @@ tensorflow-cpu==2.7.0
 yfinance==0.1.70
 matplotlib==3.5.0
 pyportfolioopt==1.5.2
+Click==7.0
