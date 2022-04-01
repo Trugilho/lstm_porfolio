@@ -4,7 +4,12 @@ import numpy as np
 from  main import get_return_data,get_allocations,get_data,portfolio_return,mv_portfolio
 import datetime as dt
 import matplotlib.pyplot as plt
+import seaborn as sns
 from keras.models import load_model
+
+sns.set_theme(style="darkgrid")
+
+sns.set()
 
 
 

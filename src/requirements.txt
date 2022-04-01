@@ -5,3 +5,5 @@ yfinance==0.1.70
 matplotlib==3.5.0
 pyportfolioopt==1.5.2
 Click==7.0
+seaborn==0.11.2
+scikit-learn==1.0.1
